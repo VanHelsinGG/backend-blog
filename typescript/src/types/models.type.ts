@@ -1,0 +1,1 @@
+export type Model<t> = t | null;
